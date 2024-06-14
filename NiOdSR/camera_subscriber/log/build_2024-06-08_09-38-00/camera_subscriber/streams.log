@@ -1,0 +1,34 @@
+[0.990s] Invoking command in '/home/damianh/ros2_humble/camera_subscriber': PYTHONPATH=/home/damianh/ros2_humble/camera_subscriber/build/camera_subscriber/prefix_override:/home/damianh/ros2_humble/camera_subscriber/install/camera_subscriber/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base build/camera_subscriber build --build-base /home/damianh/ros2_humble/camera_subscriber/build/camera_subscriber/build install --record /home/damianh/ros2_humble/camera_subscriber/build/camera_subscriber/install.log --single-version-externally-managed install_data
+[1.382s] running egg_info
+[1.383s] creating build/camera_subscriber/camera_subscriber.egg-info
+[1.383s] writing build/camera_subscriber/camera_subscriber.egg-info/PKG-INFO
+[1.384s] writing dependency_links to build/camera_subscriber/camera_subscriber.egg-info/dependency_links.txt
+[1.384s] writing entry points to build/camera_subscriber/camera_subscriber.egg-info/entry_points.txt
+[1.384s] writing requirements to build/camera_subscriber/camera_subscriber.egg-info/requires.txt
+[1.384s] writing top-level names to build/camera_subscriber/camera_subscriber.egg-info/top_level.txt
+[1.384s] writing manifest file 'build/camera_subscriber/camera_subscriber.egg-info/SOURCES.txt'
+[1.387s] reading manifest file 'build/camera_subscriber/camera_subscriber.egg-info/SOURCES.txt'
+[1.388s] writing manifest file 'build/camera_subscriber/camera_subscriber.egg-info/SOURCES.txt'
+[1.389s] running build
+[1.389s] running build_py
+[1.389s] creating /home/damianh/ros2_humble/camera_subscriber/build/camera_subscriber/build
+[1.389s] creating /home/damianh/ros2_humble/camera_subscriber/build/camera_subscriber/build/lib
+[1.389s] creating /home/damianh/ros2_humble/camera_subscriber/build/camera_subscriber/build/lib/camera_subscriber
+[1.389s] copying camera_subscriber/__init__.py -> /home/damianh/ros2_humble/camera_subscriber/build/camera_subscriber/build/lib/camera_subscriber
+[1.389s] running install
+[1.390s] running install_lib
+[1.391s] creating /home/damianh/ros2_humble/camera_subscriber/install/camera_subscriber/lib/python3.10/site-packages/camera_subscriber
+[1.391s] copying /home/damianh/ros2_humble/camera_subscriber/build/camera_subscriber/build/lib/camera_subscriber/__init__.py -> /home/damianh/ros2_humble/camera_subscriber/install/camera_subscriber/lib/python3.10/site-packages/camera_subscriber
+[1.392s] byte-compiling /home/damianh/ros2_humble/camera_subscriber/install/camera_subscriber/lib/python3.10/site-packages/camera_subscriber/__init__.py to __init__.cpython-310.pyc
+[1.393s] running install_data
+[1.393s] creating /home/damianh/ros2_humble/camera_subscriber/install/camera_subscriber/share/ament_index
+[1.393s] creating /home/damianh/ros2_humble/camera_subscriber/install/camera_subscriber/share/ament_index/resource_index
+[1.393s] creating /home/damianh/ros2_humble/camera_subscriber/install/camera_subscriber/share/ament_index/resource_index/packages
+[1.393s] copying resource/camera_subscriber -> /home/damianh/ros2_humble/camera_subscriber/install/camera_subscriber/share/ament_index/resource_index/packages
+[1.393s] copying package.xml -> /home/damianh/ros2_humble/camera_subscriber/install/camera_subscriber/share/camera_subscriber
+[1.393s] running install_egg_info
+[1.398s] Copying build/camera_subscriber/camera_subscriber.egg-info to /home/damianh/ros2_humble/camera_subscriber/install/camera_subscriber/lib/python3.10/site-packages/camera_subscriber-0.0.0-py3.10.egg-info
+[1.399s] running install_scripts
+[1.431s] Installing camera_node script to /home/damianh/ros2_humble/camera_subscriber/install/camera_subscriber/lib/camera_subscriber
+[1.431s] writing list of installed files to '/home/damianh/ros2_humble/camera_subscriber/build/camera_subscriber/install.log'
+[1.483s] Invoked command in '/home/damianh/ros2_humble/camera_subscriber' returned '0': PYTHONPATH=/home/damianh/ros2_humble/camera_subscriber/build/camera_subscriber/prefix_override:/home/damianh/ros2_humble/camera_subscriber/install/camera_subscriber/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base build/camera_subscriber build --build-base /home/damianh/ros2_humble/camera_subscriber/build/camera_subscriber/build install --record /home/damianh/ros2_humble/camera_subscriber/build/camera_subscriber/install.log --single-version-externally-managed install_data
